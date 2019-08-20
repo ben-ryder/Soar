@@ -1,5 +1,5 @@
 # Soar  
-A proof of concept game, where the player flies through a cave.  
+A proof of concept game where the player flies through a cave trying to collect the coins and not crash.  
 This is a minimal viable product and as such this is only a first representation. There will need to be a code refactor, graphics imporvements etc, before I release it.
 
 ## Improvements   
