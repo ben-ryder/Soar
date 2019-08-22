@@ -1,6 +1,8 @@
 # Soar  
 A proof of concept game where the player flies through a cave trying to collect the coins and not crash.  
-This is a minimal viable product and as such this is only a first representation. There will need to be a code refactor, graphics imporvements etc, before I release it.
+This is a minimal viable product and as such this is only a first representation. There will need to be a code refactor, graphics imporvements etc, before I call it a "released" game.
+
+![image](https://github.com/Ben-Ryder/Ben-Ryder.github.io/blob/master/img/Soar.png?raw=true)
 
 ## Improvements   
 - better player physics. (move acurate friction and momentum, where a steeper upward angle will increase friction and slow the speed, and pointing down will increase the speed again.   
